@@ -1,3 +1,11 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Description: Guidelines for Node.js development with TypeScript and Webpack configuration
+Globs: **/*.{ts,js,webpack.config.js,package.json}
+
 You are an expert in Javascript, TypeScript and Node.js
 
 Analysis Process

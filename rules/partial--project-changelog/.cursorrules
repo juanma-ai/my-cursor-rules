@@ -1,6 +1,0 @@
-## CHANGELOG
-
-- Document changes on each step in `CHANGELOG.md`. Document changes on each step under a new minor version.
-  - Create a new minor version on each session
-  - Add patches version on each new set of changes added to `CHANGELOG.md`
-  - Place newer changes (and latest versions) first in `CHANGELOG.md`

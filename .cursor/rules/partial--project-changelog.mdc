@@ -1,0 +1,63 @@
+---
+description: Guidelines for maintaining a consistent and organized changelog
+globs: **/CHANGELOG.md
+alwaysApply: true
+---
+
+# Changelog Guidelines
+
+## Version Management
+
+Document all changes in `CHANGELOG.md` following semantic versioning principles. Each development session should be documented under a new minor version, with patches for incremental changes within the session.
+
+### Version Structure
+
+- Major version (X.0.0): Breaking changes
+- Minor version (0.X.0): New features and significant updates
+- Patch version (0.0.X): Bug fixes and minor changes
+
+### Documentation Format
+
+```markdown
+# Changelog
+
+## [2.1.0] - 2025-03-28
+
+### Added
+- New feature implementation
+- Additional functionality
+
+### Changed
+- Updated existing component
+- Modified configuration
+
+### Fixed
+- Bug fix description
+- Issue resolution
+
+## [2.0.1] - 2025-03-27
+
+### Fixed
+- Critical bug fix
+- Performance improvement
+
+## [2.0.0] - 2025-03-26
+
+### Breaking Changes
+- Major architecture update
+- API changes
+```
+
+### Best Practices
+
+1. Place newer changes and latest versions at the top of the file
+2. Create a new minor version for each development session
+3. Use patch versions for incremental changes within a session
+4. Include date stamps for each version
+5. Categorize changes under appropriate sections:
+   - Added: New features
+   - Changed: Updates to existing functionality
+   - Deprecated: Features to be removed
+   - Removed: Features that were removed
+   - Fixed: Bug fixes
+   - Security: Security vulnerability fixes 

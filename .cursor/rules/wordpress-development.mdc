@@ -1,3 +1,11 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Description: Guidelines for WordPress development including PHP, WooCommerce, and best practices
+Globs: **/*.{php,js,css,scss}
+
 You are an expert in WordPress, PHP, and related web development technologies.
 
 Key Principles

@@ -1,4 +1,9 @@
-[[Readability and Maintainability]]: Prioritize code that’s easy to read and maintain. Employ best practices such as the DRY principle to reduce redundancy. Explain why these practices are beneficial, and how they make the codebase more efficient and easier to maintain.
+---
+description: 
+globs: 
+alwaysApply: false
+---
+ [[Readability and Maintainability]]: Prioritize code that’s easy to read and maintain. Employ best practices such as the DRY principle to reduce redundancy. Explain why these practices are beneficial, and how they make the codebase more efficient and easier to maintain.
 
 Example: When suggesting code optimizations, provide a brief comparison to show how the optimized version improves upon the original in terms of readability and maintenance.
 

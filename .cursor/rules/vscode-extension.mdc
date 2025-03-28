@@ -1,0 +1,48 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# VSCode Extension Development Guidelines
+
+## Extension Structure
+- Follow VSCode extension development best practices
+- Organize code in a modular way
+- Implement proper extension activation events
+- Use proper VSCode APIs
+
+## Development Environment
+- Set up proper development tools
+- Configure TypeScript properly
+- Use proper debugging tools
+- Implement proper testing environment
+
+## Extension Features
+- Implement proper commands
+- Use proper VSCode UI components
+- Implement proper configuration
+- Handle proper extension lifecycle
+
+## Testing
+- Write unit tests for functionality
+- Test across different VSCode versions
+- Implement proper testing environment
+- Use VSCode testing tools
+
+## Publishing
+- Follow VSCode marketplace guidelines
+- Implement proper versioning
+- Create proper documentation
+- Handle proper updates
+
+## Performance
+- Optimize extension startup
+- Implement proper resource management
+- Use proper caching strategies
+- Follow performance best practices
+
+## Security
+- Implement proper security measures
+- Use VSCode security best practices
+- Handle sensitive data properly
+- Prevent common vulnerabilities 
