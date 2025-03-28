@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+## Short codes
+
+Check the start of any user message for the following short codes and act appropriately:
+- ddc - short for `discuss don't code` so do not make any code changes only discuss the options until given the go ahead to make changes 
+- jdi - short for `just do it` so this is giving approval to go ahead and make the changes that have been discussed
