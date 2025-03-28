@@ -100,7 +100,8 @@ Contributions are welcome! To contribute:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## Related
 
-- Contributors who have helped create and maintain these rules
-- The Cursor AI team for making this integration possible
+- https://docs.cursor.com/context/rules-for-ai
+- https://notes.switchdimension.com/cursor-ai-rules
+- https://forum.cursor.com/t/what-is-a-mdc-file/50417
